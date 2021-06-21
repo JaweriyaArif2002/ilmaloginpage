@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+.login,
+.image {
+  min-height: 100vh;
+  margin-left: 10;
+ 
+}
+.bg-image {
+  margin-left: 10;
+  background-image: url('./assets/pic.jpg');
+  background-size: cover;
+  background-position: center center;
+}
